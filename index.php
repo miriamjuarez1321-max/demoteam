@@ -12,11 +12,11 @@
     <br>
     <h2>Integrantes:</h2>
     <ul>
-        <li><a href="./oliver.docx">Oliver Elnivar</a></li>
-        <li><a href="./miriam.docx">Miriam Noemi</a></li>
-        <li><a href="./jose.docx">Jose Alfredo</a></li>
-        <li><a href="./jordy.docx">Jordy Rafael</a></li>
-         <li><a href="./oliverdavid.docx">Oliver David</a></li>
+        <li><a href="./oliverdiaz.docx">Oliver Elnivar</a></li>
+        <li><a href="./miriamjuarez.docx">Miriam Noemi</a></li>
+        <li><a href="./josejimenez.docx">Jose Alfredo</a></li>
+        <li><a href="./jordysanchez.docx">Jordy Rafael</a></li>
+         <li><a href="./oliverdavidsantiz.docx">Oliver David</a></li>
     </ul>
 
 
